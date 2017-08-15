@@ -1,3 +1,7 @@
 123
 456
 789
+git init
+git add
+git commit
+git status
