@@ -6,3 +6,4 @@ git add
 git commit
 git status
 create a new feature branch
+create a new develop branch
