@@ -5,4 +5,4 @@ git init
 git add
 git commit
 git status
-create a new branch
+create a new feature branch
